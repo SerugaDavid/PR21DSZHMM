@@ -20,6 +20,7 @@ Koliko je trenutnih hospitalizacij?<br>
 Kako se primerjajo Covid primeri in smrti po starostnih skupinah?<br>
 Kako prazniki vplivajo na Covid primere in smrti?<br>
 Kako Covid vpliva na šolarje?<br>
+Kako se je spremenila moč Covida?<br>
 
 ## Cilji
  - Odgovoriti na zastavljena vprašanja
