@@ -42,7 +42,6 @@ Ti podatki so shranjeni v `.csv` datotekah.
 
 
 
-
 [comment]: <> (Še nekaj ostalih virov podatkov)
 [comment]: https://podatki.gov.si/dataset/potrjeni-primeri-covid-19-po-cepljenju
 [comment]: https://podatki.gov.si/dataset/spremljanje-covid-19-v-bolnisnicah-episari
