@@ -9,7 +9,7 @@ podatkom.
 ## Vprašanja
 ### Cepiva
 Kako so cepiva vplivala na število Covid okužb?<br>
-Kakšna je razlika v učinkovitosti med Covid cepivi?<br>
+**Kakšna je razlika v učinkovitosti med Covid cepivi?**<br>
 Ali cepiva zmanjšajo hospitalizacije bolnikov?<br>
 Kdo se cepi? Pregled po starostnih skupinah.<br>
 
@@ -20,7 +20,7 @@ Koliko je trenutnih hospitalizacij?<br>
 Kako se primerjajo Covid primeri in smrti po starostnih skupinah?<br>
 Kako prazniki vplivajo na Covid primere in smrti?<br>
 Kako Covid vpliva na šolarje?<br>
-Kako se je spremenila moč Covida?<br>
+**Kako se je spremenila moč Covida?**<br>
 
 ## Cilji
  - Odgovoriti na zastavljena vprašanja
