@@ -1,22 +1,9 @@
-# Nek naslov seminarske, ki ga mormo še določet
-
-
-
-
-## Hiter pregled podatkov
-
-
-
-
+# Razvoj in vpliv različnih faktorjev na epidemijo Korona-virusa v Sloveniji.
 
 
 
 
 ## Glavna vprašanja
-
-
-
-
 
 ### 1. Kakšne so razlike med regijami in starostnimi skupinami?
 
@@ -48,7 +35,7 @@ Iz tega sklepamo, da se je Covid po Sloveniji širil enakomerno in neodvisno od 
 Podobno kot pri regijah nas je zanimalo ali starostna skupina vpliva na verjetnost, da človek zboli s Covid boleznijo. Zato smo podatke o okužbah razdelili v 5 starostnih skupin. Pri tem pa smo tudi upoštevali število ljudi v posamezni starostni skupini. 
 
 
-![Alt text](/img/primeri%20po%20starosti%20relativno.png "Title")
+
 
 Na grafu je razvidno, da je bil največji delež aktivnih okužencev zaznan v najstarejši starostni skupini. To je zelo smiselno, saj so tudi najbolj rizična skupina. Zanimivo pa je, da so kasneje v pandemiji starejši ljudje imeli dokaj nizek procent okuženosti. V jeseni 2021 lahko na grafu vidimo sunek v okužbah pri mlajših generacijah.
 
@@ -61,18 +48,16 @@ Zanimala nas je vplivnost cepiv na število okužb.
 
 Najprej smo ceplejenja z enim odmirkom primerjali po starostnih skupinah. V ta namen smo pripravili graf, kjer smo za vsako starostno skupino primerjali delež precepljenosti posamezne starostne skupine. 
 
-***graf CEPLJENI PO STAROSTI RELATIVNO***
+![Alt text](/img/cepljeni%20po%20starosti%20relativno.png "Title")
 
 Na grafu je lepo razviden načrt cepljenja: Najprej pridejo na vrsto starejši, nato pa mlajši. Na začetku leta 2021 se vidi skoraj navpičen vzpon cepljenosti starejših starostnih skupin. Vidimo tudi, da so se mlajše starostne skupine šle cepit kasneje in so tudi dosegle manjši delež precepljenosti. 
 
-***HISTOGRAM PRECEPLENOSTI STAROSTNIH SKUPIN***
+![Alt text](/img/hist%20cepljeni%20po%20starosti.png "Title")
 
-****+TEXT???
+Na histogramu lahko vidimo kolikšen delež določene starostne skupine je cepljen vsaj enkrat. 
+Lepo vidimo, da mlajša, kot je starostna skupina, manjša je precepljenost te skupine. To je smiselno, saj so starejši bolj nagnjeni k bolezni.
 
-
-
-
-![Alt text](/img/cepljeni%20po%20starosti%20relativno.png "Title")
+![Alt text](/img/primeri%20po%20starosti%20relativno.png "Title")
 
 
 Da pa lahko pogledamo ali je cepljenje pripomoglo k zmanjšanju okužb, moramo primerjati podatke.
