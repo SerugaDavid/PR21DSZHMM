@@ -20,7 +20,11 @@
 
 ### 1. Kakšne so razlike med regijami in starostnimi skupinami?
 
-Najprej nas je zanimalo, če so kakšne razlike 
+Najprej nas je zanimalo, če se število okužb razlikuje glede na regijo.
+
+V ta namen smo pripravili nekaj vizualizacij
+
+![Alt text](/img/hist_regije_cepljenosti.png "Title")
 
 
 
