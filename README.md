@@ -55,7 +55,7 @@ Na grafu je razvidno, da je bil največji delež aktivnih okužencev zaznan v na
 Ena od možnih razlag je, da se je previdnost starejših povečala in mlajših zmanjšala.
 
 
-### 2. Kakšne so razlike med cepljenimi in ne cepljenimi
+### 2. Kakšne so razlike med cepljenimi in ne cepljenimi?
 
 Zanimala nas je vplivnost cepiv na število okužb.
 
@@ -80,10 +80,10 @@ Da pa lahko pogledamo ali je cepljenje pripomoglo k zmanjšanju okužb, moramo p
 
 ![Alt text](/img/relativno_vpliv_cepljenost_na_%C5%A1tevilo_aktivnih_oku%C5%BEencev.png "Title")
 
-Na tem grafu vidimo, da se število aktivnih okužencev zmanjša po prvem valu množičnega cepljenja z prvim in drugim odmirkom. Tik pred začetkom distribucije tretjega odmirka je število okužb vendarle naraščalo. Stanje se je takoj po tem sicer izboljšalo, a ne za dolgo, saj vidimo v januarju 2022 največjo rast števila okužencev. Sklepamo, da ta špica ni povezana s cepivi, ampak da so na to vplivale drugi faktorji (npr. novoletni prazniki)
+Na tem grafu vidimo, da se število aktivnih okužencev zmanjša po prvem valu množičnega cepljenja s prvim in drugim odmirkom. Tik pred začetkom distribucije tretjega odmirka je število okužb vendarle naraščalo. Stanje se je takoj po tem sicer izboljšalo, a ne za dolgo, saj vidimo v januarju 2022 največjo rast števila okužencev. Sklepamo, da ta špica ni povezana s cepivi, ampak da so na to vplivale drugi faktorji (npr. novoletni prazniki)
 
 
-### 3. Kakšen je vpliv socialnega življenja ter vladnih ukrepov
+### 3. Kakšen je vpliv socialnega življenja ter vladnih ukrepov?
  
  Do te točke smo že odkrili nekaj dejavnikov, ki so potencialno vplivali na Covid stanje. Vendarle ostajajo določene skrivnosti. Naša zadnja raziskava bo poskušala ugotoviti kako je na število okužb vplivalo socialno življenje. Spremljali bomo tudi vladne ukrepe, saj so ti imeli velik vpliv na življenje v času epidemije.
 
