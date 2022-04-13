@@ -1,4 +1,5 @@
 # Razvoj in vpliv različnih faktorjev na epidemijo Korona-virusa v Sloveniji.
+# 
 
 ## Opis problema
 V tem času smo velikokart obkroženi s podatki, ki ji ne razumemo najbolj
@@ -8,18 +9,18 @@ podatkom.
 
 ## Vprašanja
 ### Cepiva
-Kako so cepiva vplivala na število Covid okužb?<br>
-**Kakšna je razlika v učinkovitosti med Covid cepivi?**<br>
-Ali cepiva zmanjšajo hospitalizacije bolnikov?<br>
-Kdo se cepi? Pregled po starostnih skupinah.<br>
+**Kako so cepiva vplivala na število Covid okužb?**<br>
+/-/Kakšna je razlika v učinkovitosti med Covid cepivi?<br>
+**Ali cepiva zmanjšajo hospitalizacije bolnikov?**<br>
+/*/Kdo se cepi? Pregled po starostnih skupinah.<br>
 
 ### Aktualni Covid podatki
-Koliko ljudi je v samoizolcaiji?<br>
-Kako se to primerja z dejanskimi okužbami?<br>
-Koliko je trenutnih hospitalizacij?<br>
-Kako se primerjajo Covid primeri in smrti po starostnih skupinah?<br>
-Kako prazniki vplivajo na Covid primere in smrti?<br>
-Kako Covid vpliva na šolarje?<br>
+/?/Koliko ljudi je v samoizolcaiji?<br>
+/?/Kako se to primerja z dejanskimi okužbami?<br>
+/-/Koliko je trenutnih hospitalizacij?<br>
+/*/Kako se primerjajo Covid primeri in smrti po starostnih skupinah?<br>
+**Kako prazniki/počitnice vplivajo na Covid primere in smrti?**<br>
+/-/Kako Covid vpliva na šolarje?<br>
 **Kako se je spremenila moč Covida?**<br>
 
 ## Cilji
